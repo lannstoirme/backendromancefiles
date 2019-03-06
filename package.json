@@ -1,0 +1,21 @@
+{
+  "name": "romancefiles",
+  "version": "1.0.0",
+  "description": "filesforromanceapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "romanceappfiles"
+  },
+  "keywords": [
+    "json"
+  ],
+  "author": "Lori Orford",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
