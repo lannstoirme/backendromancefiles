@@ -7,7 +7,7 @@
 
 var http 	= require('http');
 var fs 		= require('fs');
-var port 	= "1111" ;
+var port 	= "80" ;
 
 http.createServer(function(request, response) {
  
